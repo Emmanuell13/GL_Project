@@ -22,6 +22,8 @@ Demo account: demo@example.com / Password123
 
 Ce projet contient une page Web de connexion en **HTML, CSS et JavaScript**.
 
+Clone ce git = https://github.com/snehak71501/Login-page-using-HTML-CSS-JAVASCRIPT?utm_source=chatgpt.com
+
 L'objectif est d'utiliser **Playwright** pour effectuer des tests automatisés sur la page de Login.
 
 ---
